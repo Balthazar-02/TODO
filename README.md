@@ -30,7 +30,7 @@ Les fonctionnalités **supplémentaires** suivantes sont implémentées :
 
 Voici une présentation des user stories implémentées :
 
-<img src='https://imgur.com/yU8V4M6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/yU8V4M6' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF créé avec [LiceCap](http://www.cockos.com/licecap/).
 
