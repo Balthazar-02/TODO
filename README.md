@@ -1,10 +1,10 @@
 # Projet 1 - *TODO*
 
-**Nom de votre application** est une application Android qui permet de créer une liste de tâches et des fonctionnalités de gestion des éléments de base, notamment l'ajout de nouveaux éléments, la modification et la suppression d'un élément existant.
+**TODO** est une application Android qui permet de créer une liste de tâches et des fonctionnalités de gestion des éléments de base, notamment l'ajout de nouveaux éléments, la modification et la suppression d'un élément existant.
 
-Soumis par : **Votre nom ici**
+Soumis par : **LAGUERRE Medgunowsky Balthazar II**
 
-Temps passé : **X** heures passées au total
+Temps passé : **6** heures passées au total
 
 ## Histoires d'utilisateurs
 
@@ -37,7 +37,8 @@ GIF créé avec [LiceCap](http://www.cockos.com/licecap/).
 ## Remarques
 
 Décrivez les difficultés rencontrées lors de la création de l'application.
-
+difficultes a donner a l'utilisateur la capacite d'edditer un élément de sa liste de tâche .
+difficultes a ajouter l'ecran d'authentification.
 ## Licence
 
     Copyright [aaaa] [nom du titulaire des droits d'auteur]
