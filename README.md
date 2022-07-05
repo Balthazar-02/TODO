@@ -1,4 +1,4 @@
-# Projet 1 - *Nom de l'application ici*
+# Projet 1 - *TODO*
 
 **Nom de votre application** est une application Android qui permet de créer une liste de tâches et des fonctionnalités de gestion des éléments de base, notamment l'ajout de nouveaux éléments, la modification et la suppression d'un élément existant.
 
@@ -30,7 +30,7 @@ Les fonctionnalités **supplémentaires** suivantes sont implémentées :
 
 Voici une présentation des user stories implémentées :
 
-<img src='https://imgur.com/yU8V4M6' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/gcbj7e5.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF créé avec [LiceCap](http://www.cockos.com/licecap/).
 
