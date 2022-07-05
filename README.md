@@ -30,15 +30,17 @@ Les fonctionnalités **supplémentaires** suivantes sont implémentées :
 
 Voici une présentation des user stories implémentées :
 
-<img src='https://i.imgur.com/gcbj7e5.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/gcbj7e5' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF créé avec [LiceCap](http://www.cockos.com/licecap/).
 
 ## Remarques
 
 Décrivez les difficultés rencontrées lors de la création de l'application.
-difficultes a donner a l'utilisateur la capacite d'edditer un élément de sa liste de tâche .
-difficultes a ajouter l'ecran d'authentification.
+
+difficulté a donner a l'utilisateur la capacite d'edditer un élément de sa liste de tâche .
+
+difficulté a ajouter l'ecran d'authentification.
 ## Licence
 
     Copyright [aaaa] [nom du titulaire des droits d'auteur]
